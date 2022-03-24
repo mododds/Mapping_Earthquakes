@@ -7,7 +7,7 @@ This module uses leaflet and geoJSON data to create an interactive map of earthq
 ## Maps views
 This map contains three different map views
 - Street view
-- Satalite view
+- Satellite view
 - Dark view
 
 ## Layers
